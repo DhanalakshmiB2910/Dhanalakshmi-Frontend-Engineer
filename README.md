@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DhanalakshmiJavaDeveloper
 - 👀 I’m interested in CSS,Js and React
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on new projects with other developers
 - 📫 How to reach me mail me @Kavithabalaji1029@gmail.com
 
 <!---
